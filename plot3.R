@@ -24,5 +24,5 @@ with(dat, {
 })
   
 # Plotting the graph to png file
-dev.copy(png, file = "plot2.png")
+dev.copy(png, file = "plot3.png")
 dev.off()
